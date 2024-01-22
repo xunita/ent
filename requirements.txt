@@ -5,3 +5,4 @@ scikit-learn
 docplex
 networkx
 matplotlib
+cplex
